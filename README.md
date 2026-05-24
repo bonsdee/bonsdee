@@ -56,17 +56,6 @@ I am a fresh graduate specializing in Full Stack Development with a strong focus
 
 ---
 
-## 💼 Work Experience
-
-### Ollopa Corporation
-**IT Intern**  
-📅 January 16, 2026 – May 27, 2026
-
-- Collaborated as a Frontend Developer in building responsive and user-friendly web applications.
-- Designed and developed Entity-Relationship Diagrams (ERDs) for database structure planning.
-
----
-
 
 ## 📈 Contribution Graph
 
