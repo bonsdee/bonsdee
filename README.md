@@ -48,11 +48,11 @@ IT Internship | January 16, 2026 – May 27, 2026
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bonsayness&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bonsdee&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonsayness&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonsdee&layout=compact" />
 </p>
 
 ## Contact
